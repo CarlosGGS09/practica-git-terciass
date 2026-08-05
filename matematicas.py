@@ -9,3 +9,8 @@ print(f"El promedio de la lista es: {promedio}")
 maximo = max(numeros)
 minimo = min(numeros)
 print(f"Maximo: {maximo} | Minimo: {minimo}")
+# Desarrollado por Estudiante C
+maximo = max(numeros)
+minimo = min(numeros)
+print(f"Maximo: {maximo} | Minimo: {minimo}")
+
